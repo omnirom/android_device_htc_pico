@@ -151,6 +151,12 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     debug.egl.recordable.rgba8888=1
 
+# Set default tones
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.ringtone=Ring_Digital_02.ogg \
+    ro.config.notification_sound=pixiedust.ogg \
+    ro.config.alarm_alert=Alarm_Beep_03.ogg
+
 PRODUCT_AAPT_CONFIG := normal mdpi
 PRODUCT_AAPT_PREF_CONFIG := mdpi
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
