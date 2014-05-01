@@ -79,7 +79,7 @@ media/audio/ringtones/Zeta.ogg
 
 # Alarms (678KB)
 media/audio/alarms/Barium.ogg
-media/audio/alarms/Cesium.ogg
+media/audio/alarms/Alarm_Beep_03.ogg
 media/audio/alarms/Copernicium.ogg
 media/audio/alarms/Curium.ogg
 media/audio/alarms/Fermium.ogg
@@ -254,7 +254,7 @@ media/audio/ringtones/Kuma.ogg
 media/audio/ringtones/Rasalas.ogg
 media/audio/ringtones/BeatPlucker.ogg
 media/audio/ringtones/BOOTES.ogg
-media/audio/ringtones/Ring_Synth_04.ogg
+media/audio/ringtones/Ring_Digital_02.ogg
 media/audio/ringtones/Atria.ogg
 media/audio/ringtones/CASSIOPEIA.ogg
 media/audio/ringtones/Orion.ogg
